@@ -94,4 +94,5 @@ unc0ver is a semi-unththred jailbreak tool released by iOS security developer pw
 
 Download [unc0ver Virtual jailbreak for iOS 26] (https://uncover-jailbreak.com/ios-26-jailbreak/)
 
+LE_SATELLiSER
 
